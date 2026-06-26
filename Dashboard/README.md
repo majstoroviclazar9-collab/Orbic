@@ -137,6 +137,3 @@ The dashboard is designed for current versions of Chrome, Edge, Firefox, and Saf
 - Adjust responsive breakpoints in `responsive.css`.
 - Update page structure and accessibility labels in `index.html`.
 
-## License
-
-This project is available for personal and educational use. Add a license file if you plan to distribute it publicly.
