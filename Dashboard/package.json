@@ -1,0 +1,14 @@
+{
+  "name": "orbic-admin-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A responsive TypeScript admin dashboard for Orbic.",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "start": "npx serve ."
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
